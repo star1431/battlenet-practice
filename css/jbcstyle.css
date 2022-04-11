@@ -52,7 +52,7 @@ border-top: solid 1px #ffffff0f;border-right: solid 1px #ffffff0f;transform: rot
 i.icon.fa-user-plus{font-size: 1.2rem;}
 /*메뉴컨테이너*/
 .menu-container{width: 100%;height: 50px;}
-.menu-container.scroll-fixed{position: fixed;width: calc(100% - 32px);padding: 16px;top:0;left:0;background-color: #15171E;z-index: 9999;box-sizing: unset;;}
+.menu-container.scroll-fixed{position: fixed;width: calc(100% - 32px);max-width: 1568px;padding: 16px 0;top:0;background-color: #15171E;z-index: 9999;box-sizing: unset;;}
 .menu-container > div{position: relative;background-color:#ffffff0f; color: #ffffffb8;}
 .menu-container{display: grid;grid-template-columns:8.2fr 2.5fr 48px .8fr;gap: 8px 8px;}
 .menu-container .coin-menu{min-width: 101px;}
