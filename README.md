@@ -4,7 +4,7 @@
 ============
 #### 미리보기
 
-#### [https://star1431.github.io/jbc_portpolio/](https://star1431.github.io/jbc_portpolio/)
+#### [https://star1431.github.io/battlenet-practice/](https://star1431.github.io/battlenet-practice/)
 
 **배틀넷 연습용사이트** 입니다.
 
